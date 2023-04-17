@@ -14,6 +14,9 @@
           <li class="nav-item">
             <a class="nav-link active" aria-current="page" href="#"><router-link to="/about" style="color: black;">About</router-link></a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="#"><router-link to="/portofolio" style="color: black;">Portofolio</router-link></a>
+          </li>
         </ul>
       </div>
     </div>
@@ -35,13 +38,16 @@ export default {
 </script>
 
 <style>
-.navbar-expand-lg {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+
+.navbar{
+  background: dodgerblue;
+}
+.navbar-brand{
+  border: 1px solid black;
+  padding: 5px 10px;
+  border-radius: 20px;
+  text-decoration: none;
+  color: black;
 }
 
 </style>
