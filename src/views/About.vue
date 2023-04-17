@@ -11,7 +11,6 @@
             dan Saya sekarang berusia 20 Tahun. Saya merupakan Mahasiswa aktif Semester 4 di jurusan Teknik Informatika Fakultas Sains dan Teknologi
             Universitas Islam Negeri Sultan Syarif Kasim Riau. Saya lahir di Pekanbaru 19 Juli 2002. website design ini dibuat untuk keperluan portofolio saya sendiri sebagai Desain Grafis dengan pengalaman 1 tahun di
             perusahaan teknologi global. Memiliki keahlian dalam melakukan desain,editing,animator,fotographer,dan videographer” </p>
-
           <div class="d-flex">
             <a href=""></a>
           </div>
